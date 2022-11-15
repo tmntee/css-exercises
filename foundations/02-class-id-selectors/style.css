@@ -1,0 +1,23 @@
+.deeznuts
+{
+    background-color: rgb(237, 138, 130);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.deeznuts.butcooler
+{
+    font-size: 24px;
+}
+
+#bigblue
+{
+    color: rgb(35, 17, 237);
+    font-size: 36px;
+}
+
+#boldgreen
+{
+    background-color: rgb(68, 235, 85);
+    font-size: 24px;
+    font-weight: bold;
+}
