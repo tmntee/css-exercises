@@ -25,3 +25,34 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+ul, a {
+  text-decoration-line: none;
+  color: gray;
+  list-style-type: none;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  background-color: rgb(221, 221, 221);
+}
+
+.left-links, .right-links
+{
+  display: flex;
+  gap: 15px;
+}
+
+.input, .buttons
+{
+  display: flex;
+  justify-content: center;
+}
+
+.buttons{
+  margin-bottom: 400px;
+}
